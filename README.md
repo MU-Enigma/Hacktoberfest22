@@ -5,9 +5,9 @@ Feel free to check the issues page and mention your interest to solve a particul
 
 Naming format- yourname_problemnumber.extension
 
-Create a new fork of this repo
-Make and commit changes via git CLI to your forked repo
-Create your Pull Request mentioning which issue you solved.
-Register for hacktoberfest here: https://hacktoberfest.digitalocean.com/
+	1)Create a new fork of this repo
+	2)Make and commit changes via git CLI to your forked repo
+	3)Create your Pull Request mentioning which issue you solved.
+	4)Register for hacktoberfest here: https://hacktoberfest.digitalocean.com/
 
 GLHF!
