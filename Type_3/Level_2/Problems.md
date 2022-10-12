@@ -135,7 +135,7 @@ Constraints:
 - The node to be deleted is in the list and is not a tail node.
 <br>
 
-# Problem 5: 
+# Problem 5: Calculate expression
 Given a string s which represents an expression, evaluate this expression and return its value. 
 
 The integer division should truncate toward zero.
@@ -160,7 +160,7 @@ Output: 1
 ```
 Example 3:
 
-Input: s = " 3+5 / 2 "
+Input: s = " 3+5/2 "
 Output: 5
 ```
  
