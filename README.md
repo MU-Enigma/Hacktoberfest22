@@ -1,7 +1,7 @@
 # Hacktoberfest22
-![HacktoberFestBanner](assets/banner.jpg)
+![HacktoberFestBanner](assets/banner.jpeg)
 
-## Problem Types:-
+## Problem Types:
 1. [Type1](#type-1):  Logo Design
 2. [Type2](#type-2):  Fun tasks
 3. [Type3](#type-3):  Programming problems
