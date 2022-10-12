@@ -24,8 +24,8 @@
 2. Issue must include the Type, Level/Problem and Language used
 3. Fork this repo to your github.
 4. Clone the forked repo to your local envoriment.
-'git clone https://github.com/<your_username>/Hacktoberfest_2022
-cd Hacktoberfest_2022'
+- `git clone https://github.com/<your_username>/Hacktoberfest_2022`
+- `cd Hacktoberfest_2022`
 5. Add all changes you make
 6. Open a Pull Request
 7. Wait for a morderator to accept you pull request.
