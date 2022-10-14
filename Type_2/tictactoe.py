@@ -32,6 +32,7 @@ def game():
         else:
             print("That place is already filled.\nMove to which place?")
             continue
+            
 
         if count >= 5:
             if theBoard['7'] == theBoard['8'] == theBoard['9'] != ' ': # across the top
