@@ -5,7 +5,6 @@ numRows = int(numRows)
 if 1 <= numRows <= 30:
     for i in range(numRows):
     for j in range(numRows-i+1):
-
         print(end=" ")
  
     for j in range(i+1):
