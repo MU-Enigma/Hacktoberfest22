@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-//For calculating the sum of square of the digits
 int check(int n){
   int r = 0, sum = 0;
   while(n > 0){
@@ -10,9 +9,7 @@ int check(int n){
  }
   return sum;
  }
- //For checking if the number is happy or not
- void solve(int n)
- {
+ void print(int n){
      int a = n;
      while(a != 1 && a != 4)
         a = check(a);
@@ -26,6 +23,6 @@ int check(int n){
    int n;
    cout<<"Enter the number"<<endl;
    cin>>n;
-   solve(n);
+   print(n);
    return 0;
  }
