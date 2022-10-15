@@ -90,8 +90,12 @@ class TicTacToe:
 
             inp = input(f"row and column to place {player}: ").split()
             while((len(inp) != 2) ):
-                print("Invalid input")
+                print("Invalid input, must have 2 space seperated values")
                 inp = input(f"row and column to place {player}: ").split()
+            while(int(inp[0]) > 3 or int(inp[1]) > 3 or int(inp[0]) < 1 or int(inp[1]) < 1):
+                print("Invalid input, value must be in between 1 and 3")
+                inp = input(f"row and column to place {player}: ").split()
+
             #print(inp)
             #while(int(inp[0]) < 1 and int(inp[1]) < 1 and int(inp[0]) > 3 and int(inp[1]) > 3 and len(inp) != 2):
             #   print("Invalid input")
