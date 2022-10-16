@@ -1,0 +1,2300 @@
+
+Flight 1:
+
+	Flight date: 2022-08-22
+
+	Flight number: 418
+
+	Flight name: Peach Aviation
+
+	Flight departure: CTS
+
+	Departure Airport: Chitose
+
+	Departure time (scheduled): 2022-08-22T16:00:00+00:00
+
+	Departure time (estimated): 2022-08-22T16:00:00+00:00
+
+	Flight arrival: SDJ
+
+	Arrival Airport: Sendai
+
+	Arrival time (scheduled): 2022-08-22T17:10:00+00:00
+
+	Arrival time (estimated): 2022-08-22T17:10:00+00:00
+
+Flight 2:
+
+	Flight date: 2022-08-22
+
+	Flight number: 516
+
+	Flight name: JAL
+
+	Flight departure: CTS
+
+	Departure Airport: Chitose
+
+	Departure time (scheduled): 2022-08-22T16:00:00+00:00
+
+	Departure time (estimated): 2022-08-22T16:00:00+00:00
+
+	Flight arrival: HND
+
+	Arrival Airport: Haneda Airport
+
+	Arrival time (scheduled): 2022-08-22T17:35:00+00:00
+
+	Arrival time (estimated): 2022-08-22T17:35:00+00:00
+
+Flight 3:
+
+	Flight date: 2022-08-22
+
+	Flight number: 28
+
+	Flight name: Air Do
+
+	Flight departure: CTS
+
+	Departure Airport: Chitose
+
+	Departure time (scheduled): 2022-08-22T16:00:00+00:00
+
+	Departure time (estimated): 2022-08-22T16:00:00+00:00
+
+	Flight arrival: HND
+
+	Arrival Airport: Haneda Airport
+
+	Arrival time (scheduled): 2022-08-22T17:40:00+00:00
+
+	Arrival time (estimated): 2022-08-22T17:40:00+00:00
+
+Flight 4:
+
+	Flight date: 2022-08-22
+
+	Flight number: 4875
+
+	Flight name: ANA
+
+	Flight departure: CTS
+
+	Departure Airport: Chitose
+
+	Departure time (scheduled): 2022-08-22T15:55:00+00:00
+
+	Departure time (estimated): 2022-08-22T15:55:00+00:00
+
+	Flight arrival: KUH
+
+	Arrival Airport: Kushiro
+
+	Arrival time (scheduled): 2022-08-22T16:40:00+00:00
+
+	Arrival time (estimated): 2022-08-22T16:40:00+00:00
+
+Flight 5:
+
+	Flight date: 2022-08-22
+
+	Flight number: 1900
+
+	Flight name: ANA
+
+	Flight departure: CTS
+
+	Departure Airport: Chitose
+
+	Departure time (scheduled): 2022-08-22T15:55:00+00:00
+
+	Departure time (estimated): 2022-08-22T15:55:00+00:00
+
+	Flight arrival: AOJ
+
+	Arrival Airport: Aomori
+
+	Arrival time (scheduled): 2022-08-22T16:45:00+00:00
+
+	Arrival time (estimated): 2022-08-22T16:45:00+00:00
+
+Flight 6:
+
+	Flight date: 2022-08-22
+
+	Flight number: 1116
+
+	Flight name: ANA
+
+	Flight departure: CTS
+
+	Departure Airport: Chitose
+
+	Departure time (scheduled): 2022-08-22T15:55:00+00:00
+
+	Departure time (estimated): 2022-08-22T15:55:00+00:00
+
+	Flight arrival: KIJ
+
+	Arrival Airport: Niigata
+
+	Arrival time (scheduled): 2022-08-22T17:05:00+00:00
+
+	Arrival time (estimated): 2022-08-22T17:05:00+00:00
+
+Flight 7:
+
+	Flight date: 2022-08-22
+
+	Flight number: 1228
+
+	Flight name: ANA
+
+	Flight departure: CTS
+
+	Departure Airport: Chitose
+
+	Departure time (scheduled): 2022-08-22T15:45:00+00:00
+
+	Departure time (estimated): 2022-08-22T15:45:00+00:00
+
+	Flight arrival: SDJ
+
+	Arrival Airport: Sendai
+
+	Arrival time (scheduled): 2022-08-22T16:50:00+00:00
+
+	Arrival time (estimated): 2022-08-22T16:50:00+00:00
+
+Flight 8:
+
+	Flight date: 2022-08-22
+
+	Flight number: 2839
+
+	Flight name: JAL
+
+	Flight departure: CTS
+
+	Departure Airport: Chitose
+
+	Departure time (scheduled): 2022-08-22T15:45:00+00:00
+
+	Departure time (estimated): 2022-08-22T15:45:00+00:00
+
+	Flight arrival: HNA
+
+	Arrival Airport: Hanamaki
+
+	Arrival time (scheduled): 2022-08-22T16:40:00+00:00
+
+	Arrival time (estimated): 2022-08-22T16:40:00+00:00
+
+Flight 9:
+
+	Flight date: 2022-08-22
+
+	Flight number: 4843
+
+	Flight name: ANA
+
+	Flight departure: CTS
+
+	Departure Airport: Chitose
+
+	Departure time (scheduled): 2022-08-22T15:40:00+00:00
+
+	Departure time (estimated): 2022-08-22T15:40:00+00:00
+
+	Flight arrival: WKJ
+
+	Arrival Airport: Hokkaido
+
+	Arrival time (scheduled): 2022-08-22T16:35:00+00:00
+
+	Arrival time (estimated): 2022-08-22T16:35:00+00:00
+
+Flight 10:
+
+	Flight date: 2022-08-22
+
+	Flight number: 68
+
+	Flight name: ANA
+
+	Flight departure: CTS
+
+	Departure Airport: Chitose
+
+	Departure time (scheduled): 2022-08-22T15:30:00+00:00
+
+	Departure time (estimated): 2022-08-22T15:30:00+00:00
+
+	Flight arrival: HND
+
+	Arrival Airport: Haneda Airport
+
+	Arrival time (scheduled): 2022-08-22T17:10:00+00:00
+
+	Arrival time (estimated): 2022-08-22T17:10:00+00:00
+
+Flight 11:
+
+	Flight date: 2022-08-22
+
+	Flight number: 110
+
+	Flight name: Jetstar Japan
+
+	Flight departure: CTS
+
+	Departure Airport: Chitose
+
+	Departure time (scheduled): 2022-08-22T15:30:00+00:00
+
+	Departure time (estimated): 2022-08-22T15:30:00+00:00
+
+	Flight arrival: NRT
+
+	Arrival Airport: Narita International Airport
+
+	Arrival time (scheduled): 2022-08-22T17:05:00+00:00
+
+	Arrival time (estimated): 2022-08-22T17:05:00+00:00
+
+Flight 12:
+
+	Flight date: 2022-08-22
+
+	Flight number: 718
+
+	Flight name: Skymark Airlines
+
+	Flight departure: CTS
+
+	Departure Airport: Chitose
+
+	Departure time (scheduled): 2022-08-22T15:10:00+00:00
+
+	Departure time (estimated): 2022-08-22T15:10:00+00:00
+
+	Flight arrival: HND
+
+	Arrival Airport: Haneda Airport
+
+	Arrival time (scheduled): 2022-08-22T16:50:00+00:00
+
+	Arrival time (estimated): 2022-08-22T16:50:00+00:00
+
+Flight 13:
+
+	Flight date: 2022-08-22
+
+	Flight number: 238
+
+	Flight name: NordStar Airlines
+
+	Flight departure: NSK
+
+	Departure Airport: Norilsk
+
+	Departure time (scheduled): 2022-08-22T13:45:00+00:00
+
+	Departure time (estimated): 2022-08-22T13:45:00+00:00
+
+	Flight arrival: KJA
+
+	Arrival Airport: Krasnojarsk
+
+	Arrival time (scheduled): 2022-08-22T16:25:00+00:00
+
+	Arrival time (estimated): 2022-08-22T16:25:00+00:00
+
+Flight 14:
+
+	Flight date: 2022-08-22
+
+	Flight number: 1280
+
+	Flight name: Red Wings
+
+	Flight departure: NSK
+
+	Departure Airport: Norilsk
+
+	Departure time (scheduled): 2022-08-22T13:15:00+00:00
+
+	Departure time (estimated): 2022-08-22T13:15:00+00:00
+
+	Flight arrival: CEK
+
+	Arrival Airport: Chelyabinsk
+
+	Arrival time (scheduled): 2022-08-22T14:50:00+00:00
+
+	Arrival time (estimated): 2022-08-22T14:50:00+00:00
+
+Flight 15:
+
+	Flight date: 2022-08-22
+
+	Flight number: 2926
+
+	Flight name: Singapore Airlines
+
+	Flight departure: ZRH
+
+	Departure Airport: Zurich
+
+	Departure time (scheduled): 2022-08-22T07:35:00+00:00
+
+	Departure time (estimated): 2022-08-22T07:35:00+00:00
+
+	Flight arrival: STR
+
+	Arrival Airport: Stuttgart Echterdingen
+
+	Arrival time (scheduled): 2022-08-22T08:15:00+00:00
+
+	Arrival time (estimated): 2022-08-22T08:15:00+00:00
+
+Flight 16:
+
+	Flight date: 2022-08-22
+
+	Flight number: 2951
+
+	Flight name: Air Cairo
+
+	Flight departure: STR
+
+	Departure Airport: Stuttgart Echterdingen
+
+	Departure time (scheduled): 2022-08-22T08:55:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:55:00+00:00
+
+	Flight arrival: HRG
+
+	Arrival Airport: Hurghada
+
+	Arrival time (scheduled): 2022-08-22T13:20:00+00:00
+
+	Arrival time (estimated): 2022-08-22T13:20:00+00:00
+
+Flight 17:
+
+	Flight date: 2022-08-22
+
+	Flight number: 8230
+
+	Flight name: EgyptAir
+
+	Flight departure: STR
+
+	Departure Airport: Stuttgart Echterdingen
+
+	Departure time (scheduled): 2022-08-22T08:55:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:55:00+00:00
+
+	Flight arrival: HRG
+
+	Arrival Airport: Hurghada
+
+	Arrival time (scheduled): 2022-08-22T13:20:00+00:00
+
+	Arrival time (estimated): 2022-08-22T13:20:00+00:00
+
+Flight 18:
+
+	Flight date: 2022-08-22
+
+	Flight number: 178
+
+	Flight name: Austrian
+
+	Flight departure: STR
+
+	Departure Airport: Stuttgart Echterdingen
+
+	Departure time (scheduled): 2022-08-22T08:55:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:55:00+00:00
+
+	Flight arrival: VIE
+
+	Arrival Airport: Vienna International
+
+	Arrival time (scheduled): 2022-08-22T10:10:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:10:00+00:00
+
+Flight 19:
+
+	Flight date: 2022-08-22
+
+	Flight number: 6366
+
+	Flight name: Lufthansa
+
+	Flight departure: STR
+
+	Departure Airport: Stuttgart Echterdingen
+
+	Departure time (scheduled): 2022-08-22T08:55:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:55:00+00:00
+
+	Flight arrival: VIE
+
+	Arrival Airport: Vienna International
+
+	Arrival time (scheduled): 2022-08-22T10:10:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:10:00+00:00
+
+Flight 20:
+
+	Flight date: 2022-08-22
+
+	Flight number: 1165
+
+	Flight name: SWISS
+
+	Flight departure: STR
+
+	Departure Airport: Stuttgart Echterdingen
+
+	Departure time (scheduled): 2022-08-22T08:55:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:55:00+00:00
+
+	Flight arrival: ZRH
+
+	Arrival Airport: Zurich
+
+	Arrival time (scheduled): 2022-08-22T09:40:00+00:00
+
+	Arrival time (estimated): 2022-08-22T09:40:00+00:00
+
+Flight 21:
+
+	Flight date: 2022-08-22
+
+	Flight number: 2925
+
+	Flight name: Singapore Airlines
+
+	Flight departure: STR
+
+	Departure Airport: Stuttgart Echterdingen
+
+	Departure time (scheduled): 2022-08-22T08:55:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:55:00+00:00
+
+	Flight arrival: ZRH
+
+	Arrival Airport: Zurich
+
+	Arrival time (scheduled): 2022-08-22T09:40:00+00:00
+
+	Arrival time (estimated): 2022-08-22T09:40:00+00:00
+
+Flight 22:
+
+	Flight date: 2022-08-22
+
+	Flight number: 5824
+
+	Flight name: Lufthansa
+
+	Flight departure: STR
+
+	Departure Airport: Stuttgart Echterdingen
+
+	Departure time (scheduled): 2022-08-22T08:55:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:55:00+00:00
+
+	Flight arrival: ZRH
+
+	Arrival Airport: Zurich
+
+	Arrival time (scheduled): 2022-08-22T09:40:00+00:00
+
+	Arrival time (estimated): 2022-08-22T09:40:00+00:00
+
+Flight 23:
+
+	Flight date: 2022-08-22
+
+	Flight number: 6842
+
+	Flight name: Air Canada
+
+	Flight departure: STR
+
+	Departure Airport: Stuttgart Echterdingen
+
+	Departure time (scheduled): 2022-08-22T08:55:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:55:00+00:00
+
+	Flight arrival: ZRH
+
+	Arrival Airport: Zurich
+
+	Arrival time (scheduled): 2022-08-22T09:40:00+00:00
+
+	Arrival time (estimated): 2022-08-22T09:40:00+00:00
+
+Flight 24:
+
+	Flight date: 2022-08-22
+
+	Flight number: 131
+
+	Flight name: Lufthansa
+
+	Flight departure: STR
+
+	Departure Airport: Stuttgart Echterdingen
+
+	Departure time (scheduled): 2022-08-22T08:25:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:25:00+00:00
+
+	Flight arrival: FRA
+
+	Arrival Airport: Frankfurt International Airport
+
+	Arrival time (scheduled): 2022-08-22T09:15:00+00:00
+
+	Arrival time (estimated): 2022-08-22T09:15:00+00:00
+
+Flight 25:
+
+	Flight date: 2022-08-22
+
+	Flight number: 7663
+
+	Flight name: TAP Air Portugal
+
+	Flight departure: STR
+
+	Departure Airport: Stuttgart Echterdingen
+
+	Departure time (scheduled): 2022-08-22T08:25:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:25:00+00:00
+
+	Flight arrival: FRA
+
+	Arrival Airport: Frankfurt International Airport
+
+	Arrival time (scheduled): 2022-08-22T09:15:00+00:00
+
+	Arrival time (estimated): 2022-08-22T09:15:00+00:00
+
+Flight 26:
+
+	Flight date: 2022-08-22
+
+	Flight number: 8965
+
+	Flight name: United Airlines
+
+	Flight departure: STR
+
+	Departure Airport: Stuttgart Echterdingen
+
+	Departure time (scheduled): 2022-08-22T08:25:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:25:00+00:00
+
+	Flight arrival: FRA
+
+	Arrival Airport: Frankfurt International Airport
+
+	Arrival time (scheduled): 2022-08-22T09:15:00+00:00
+
+	Arrival time (estimated): 2022-08-22T09:15:00+00:00
+
+Flight 27:
+
+	Flight date: 2022-08-22
+
+	Flight number: 2019
+
+	Flight name: Singapore Airlines
+
+	Flight departure: STR
+
+	Departure Airport: Stuttgart Echterdingen
+
+	Departure time (scheduled): 2022-08-22T08:25:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:25:00+00:00
+
+	Flight arrival: FRA
+
+	Arrival Airport: Frankfurt International Airport
+
+	Arrival time (scheduled): 2022-08-22T09:15:00+00:00
+
+	Arrival time (estimated): 2022-08-22T09:15:00+00:00
+
+Flight 28:
+
+	Flight date: 2022-08-22
+
+	Flight number: 6216
+
+	Flight name: ANA
+
+	Flight departure: STR
+
+	Departure Airport: Stuttgart Echterdingen
+
+	Departure time (scheduled): 2022-08-22T08:25:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:25:00+00:00
+
+	Flight arrival: FRA
+
+	Arrival Airport: Frankfurt International Airport
+
+	Arrival time (scheduled): 2022-08-22T09:15:00+00:00
+
+	Arrival time (estimated): 2022-08-22T09:15:00+00:00
+
+Flight 29:
+
+	Flight date: 2022-08-22
+
+	Flight number: 9127
+
+	Flight name: Air Canada
+
+	Flight departure: STR
+
+	Departure Airport: Stuttgart Echterdingen
+
+	Departure time (scheduled): 2022-08-22T08:25:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:25:00+00:00
+
+	Flight arrival: FRA
+
+	Arrival Airport: Frankfurt International Airport
+
+	Arrival time (scheduled): 2022-08-22T09:15:00+00:00
+
+	Arrival time (estimated): 2022-08-22T09:15:00+00:00
+
+Flight 30:
+
+	Flight date: 2022-08-22
+
+Flight 31:
+
+	Flight date: 2022-08-22
+
+	Flight number: 1134
+
+	Flight name: Philippine Airlines
+
+	Flight departure: BCD
+
+	Departure Airport: Bacolod
+
+	Departure time (scheduled): 2022-08-22T14:25:00+00:00
+
+	Departure time (estimated): 2022-08-22T14:25:00+00:00
+
+	Flight arrival: MNL
+
+	Arrival Airport: Ninoy Aquino International
+
+	Arrival time (scheduled): 2022-08-22T15:45:00+00:00
+
+	Arrival time (estimated): 2022-08-22T15:45:00+00:00
+
+Flight 32:
+
+	Flight date: 2022-08-22
+
+	Flight number: 5845
+
+	Flight name: Oman Air
+
+	Flight departure: BKK
+
+	Departure Airport: Suvarnabhumi International
+
+	Departure time (scheduled): 2022-08-22T12:15:00+00:00
+
+	Departure time (estimated): 2022-08-22T12:15:00+00:00
+
+	Flight arrival: LPT
+
+	Arrival Airport: Lampang
+
+	Arrival time (scheduled): 2022-08-22T13:45:00+00:00
+
+	Arrival time (estimated): 2022-08-22T13:45:00+00:00
+
+Flight 33:
+
+	Flight date: 2022-08-22
+
+	Flight number: 4443
+
+	Flight name: Turkish Airlines
+
+	Flight departure: BKK
+
+	Departure Airport: Suvarnabhumi International
+
+	Departure time (scheduled): 2022-08-22T12:15:00+00:00
+
+	Departure time (estimated): 2022-08-22T12:15:00+00:00
+
+	Flight arrival: LPT
+
+	Arrival Airport: Lampang
+
+	Arrival time (scheduled): 2022-08-22T13:45:00+00:00
+
+	Arrival time (estimated): 2022-08-22T13:45:00+00:00
+
+Flight 34:
+
+	Flight date: 2022-08-22
+
+	Flight number: 5685
+
+	Flight name: Thai Airways International
+
+	Flight departure: BKK
+
+	Departure Airport: Suvarnabhumi International
+
+	Departure time (scheduled): 2022-08-22T12:15:00+00:00
+
+	Departure time (estimated): 2022-08-22T12:15:00+00:00
+
+	Flight arrival: LPT
+
+	Arrival Airport: Lampang
+
+	Arrival time (scheduled): 2022-08-22T13:45:00+00:00
+
+	Arrival time (estimated): 2022-08-22T13:45:00+00:00
+
+Flight 35:
+
+	Flight date: 2022-08-22
+
+	Flight number: 4430
+
+	Flight name: Qatar Airways
+
+	Flight departure: BKK
+
+	Departure Airport: Suvarnabhumi International
+
+	Departure time (scheduled): 2022-08-22T12:15:00+00:00
+
+	Departure time (estimated): 2022-08-22T12:15:00+00:00
+
+	Flight arrival: LPT
+
+	Arrival Airport: Lampang
+
+	Arrival time (scheduled): 2022-08-22T13:45:00+00:00
+
+	Arrival time (estimated): 2022-08-22T13:45:00+00:00
+
+Flight 36:
+
+	Flight date: 2022-08-22
+
+	Flight number: 3485
+
+	Flight name: Qantas
+
+	Flight departure: BKK
+
+	Departure Airport: Suvarnabhumi International
+
+	Departure time (scheduled): 2022-08-22T12:15:00+00:00
+
+	Departure time (estimated): 2022-08-22T12:15:00+00:00
+
+	Flight arrival: LPT
+
+	Arrival Airport: Lampang
+
+	Arrival time (scheduled): 2022-08-22T13:45:00+00:00
+
+	Arrival time (estimated): 2022-08-22T13:45:00+00:00
+
+Flight 37:
+
+	Flight date: 2022-08-22
+
+	Flight number: 4082
+
+	Flight name: Gulf Air
+
+	Flight departure: BKK
+
+	Departure Airport: Suvarnabhumi International
+
+	Departure time (scheduled): 2022-08-22T12:15:00+00:00
+
+	Departure time (estimated): 2022-08-22T12:15:00+00:00
+
+	Flight arrival: LPT
+
+	Arrival Airport: Lampang
+
+	Arrival time (scheduled): 2022-08-22T13:45:00+00:00
+
+	Arrival time (estimated): 2022-08-22T13:45:00+00:00
+
+Flight 38:
+
+	Flight date: 2022-08-22
+
+	Flight number: 9580
+
+	Flight name: Garuda Indonesia
+
+	Flight departure: BKK
+
+	Departure Airport: Suvarnabhumi International
+
+	Departure time (scheduled): 2022-08-22T12:15:00+00:00
+
+	Departure time (estimated): 2022-08-22T12:15:00+00:00
+
+	Flight arrival: LPT
+
+	Arrival Airport: Lampang
+
+	Arrival time (scheduled): 2022-08-22T13:45:00+00:00
+
+	Arrival time (estimated): 2022-08-22T13:45:00+00:00
+
+Flight 39:
+
+	Flight date: 2022-08-22
+
+	Flight number: 7619
+
+	Flight name: Etihad Airways
+
+	Flight departure: BKK
+
+	Departure Airport: Suvarnabhumi International
+
+	Departure time (scheduled): 2022-08-22T12:15:00+00:00
+
+	Departure time (estimated): 2022-08-22T12:15:00+00:00
+
+	Flight arrival: LPT
+
+	Arrival Airport: Lampang
+
+	Arrival time (scheduled): 2022-08-22T13:45:00+00:00
+
+	Arrival time (estimated): 2022-08-22T13:45:00+00:00
+
+Flight 40:
+
+	Flight date: 2022-08-22
+
+	Flight number: 4468
+
+	Flight name: Emirates
+
+	Flight departure: BKK
+
+	Departure Airport: Suvarnabhumi International
+
+	Departure time (scheduled): 2022-08-22T12:15:00+00:00
+
+	Departure time (estimated): 2022-08-22T12:15:00+00:00
+
+	Flight arrival: LPT
+
+	Arrival Airport: Lampang
+
+	Arrival time (scheduled): 2022-08-22T13:45:00+00:00
+
+	Arrival time (estimated): 2022-08-22T13:45:00+00:00
+
+Flight 41:
+
+	Flight date: 2022-08-22
+
+	Flight number: 6933
+
+	Flight name: Finnair
+
+	Flight departure: BKK
+
+	Departure Airport: Suvarnabhumi International
+
+	Departure time (scheduled): 2022-08-22T12:15:00+00:00
+
+	Departure time (estimated): 2022-08-22T12:15:00+00:00
+
+	Flight arrival: LPT
+
+	Arrival Airport: Lampang
+
+	Arrival time (scheduled): 2022-08-22T13:45:00+00:00
+
+	Arrival time (estimated): 2022-08-22T13:45:00+00:00
+
+Flight 42:
+
+	Flight date: 2022-08-22
+
+	Flight number: 1513
+
+	Flight name: Jet2
+
+	Flight departure: STN
+
+	Departure Airport: Stansted
+
+	Departure time (scheduled): 2022-08-22T08:00:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:00:00+00:00
+
+	Flight arrival: MAH
+
+	Arrival Airport: Mahon
+
+	Arrival time (scheduled): 2022-08-22T11:30:00+00:00
+
+	Arrival time (estimated): 2022-08-22T11:30:00+00:00
+
+Flight 43:
+
+	Flight date: 2022-08-22
+
+	Flight number: 1473
+
+	Flight name: Titan Airways
+
+	Flight departure: STN
+
+	Departure Airport: Stansted
+
+	Departure time (scheduled): 2022-08-22T08:00:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:00:00+00:00
+
+	Flight arrival: IBZ
+
+	Arrival Airport: Ibiza
+
+	Arrival time (scheduled): 2022-08-22T11:40:00+00:00
+
+	Arrival time (estimated): 2022-08-22T11:40:00+00:00
+
+Flight 44:
+
+	Flight date: 2022-08-22
+
+	Flight number: 8584
+
+	Flight name: Ryanair
+
+	Flight departure: STN
+
+	Departure Airport: Stansted
+
+	Departure time (scheduled): 2022-08-22T08:00:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:00:00+00:00
+
+	Flight arrival: RHO
+
+	Arrival Airport: Diagoras
+
+	Arrival time (scheduled): 2022-08-22T13:55:00+00:00
+
+	Arrival time (estimated): 2022-08-22T13:55:00+00:00
+
+Flight 45:
+
+	Flight date: 2022-08-22
+
+	Flight number: 6541
+
+	Flight name: Ryanair
+
+	Flight departure: STN
+
+	Departure Airport: Stansted
+
+	Departure time (scheduled): 2022-08-22T08:00:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:00:00+00:00
+
+	Flight arrival: MRS
+
+	Arrival Airport: Marseille Provence Airport
+
+	Arrival time (scheduled): 2022-08-22T10:55:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:55:00+00:00
+
+Flight 46:
+
+	Flight date: 2022-08-22
+
+	Flight number: 1013
+
+	Flight name: Ryanair
+
+	Flight departure: STN
+
+	Departure Airport: Stansted
+
+	Departure time (scheduled): 2022-08-22T08:00:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:00:00+00:00
+
+	Flight arrival: PRG
+
+	Arrival Airport: Prague Vaclav Havel Airport
+
+	Arrival time (scheduled): 2022-08-22T10:45:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:45:00+00:00
+
+Flight 47:
+
+	Flight date: 2022-08-22
+
+	Flight number: 9509
+
+	Flight name: Ryanair
+
+	Flight departure: STN
+
+	Departure Airport: Stansted
+
+	Departure time (scheduled): 2022-08-22T07:55:00+00:00
+
+	Departure time (estimated): 2022-08-22T07:55:00+00:00
+
+	Flight arrival: BRE
+
+	Arrival Airport: Bremen
+
+	Arrival time (scheduled): 2022-08-22T10:10:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:10:00+00:00
+
+Flight 48:
+
+	Flight date: 2022-08-22
+
+	Flight number: 1005
+
+	Flight name: Ryanair
+
+	Flight departure: STN
+
+	Departure Airport: Stansted
+
+	Departure time (scheduled): 2022-08-22T07:55:00+00:00
+
+	Departure time (estimated): 2022-08-22T07:55:00+00:00
+
+	Flight arrival: OTP
+
+	Arrival Airport: Henri Coanda International
+
+	Arrival time (scheduled): 2022-08-22T12:55:00+00:00
+
+	Arrival time (estimated): 2022-08-22T12:55:00+00:00
+
+Flight 49:
+
+	Flight date: 2022-08-22
+
+	Flight number: 805
+
+	Flight name: Ryanair
+
+	Flight departure: STN
+
+	Departure Airport: Stansted
+
+	Departure time (scheduled): 2022-08-22T07:55:00+00:00
+
+	Departure time (estimated): 2022-08-22T07:55:00+00:00
+
+	Flight arrival: NOC
+
+	Arrival Airport: Ireland West Airport Knock
+
+	Arrival time (scheduled): 2022-08-22T09:20:00+00:00
+
+	Arrival time (estimated): 2022-08-22T09:20:00+00:00
+
+Flight 50:
+
+	Flight date: 2022-08-22
+
+	Flight number: 145
+
+	Flight name: Ryanair
+
+	Flight departure: STN
+
+	Departure Airport: Stansted
+
+	Departure time (scheduled): 2022-08-22T07:55:00+00:00
+
+	Departure time (estimated): 2022-08-22T07:55:00+00:00
+
+	Flight arrival: BER
+
+	Arrival Airport: Berlin Brandenburg Airport
+
+	Arrival time (scheduled): 2022-08-22T10:40:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:40:00+00:00
+
+Flight 51:
+
+	Flight date: 2022-08-22
+
+	Flight number: 8592
+
+	Flight name: Ryanair
+
+	Flight departure: STN
+
+	Departure Airport: Stansted
+
+	Departure time (scheduled): 2022-08-22T07:50:00+00:00
+
+	Departure time (estimated): 2022-08-22T07:50:00+00:00
+
+	Flight arrival: EGC
+
+	Arrival Airport: Roumanieres
+
+	Arrival time (scheduled): 2022-08-22T10:35:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:35:00+00:00
+
+Flight 52:
+
+	Flight date: 2022-08-22
+
+	Flight number: 8288
+
+	Flight name: Ryanair
+
+	Flight departure: STN
+
+	Departure Airport: Stansted
+
+	Departure time (scheduled): 2022-08-22T07:50:00+00:00
+
+	Departure time (estimated): 2022-08-22T07:50:00+00:00
+
+	Flight arrival: ACE
+
+	Arrival Airport: Lanzarote
+
+	Arrival time (scheduled): 2022-08-22T12:05:00+00:00
+
+	Arrival time (estimated): 2022-08-22T12:05:00+00:00
+
+Flight 53:
+
+	Flight date: 2022-08-22
+
+	Flight number: 251
+
+	Flight name: easyJet
+
+	Flight departure: STN
+
+	Departure Airport: Stansted
+
+	Departure time (scheduled): 2022-08-22T07:45:00+00:00
+
+	Departure time (estimated): 2022-08-22T07:45:00+00:00
+
+	Flight arrival: BFS
+
+	Arrival Airport: Aldergrove International Airport
+
+	Arrival time (scheduled): 2022-08-22T09:05:00+00:00
+
+	Arrival time (estimated): 2022-08-22T09:05:00+00:00
+
+Flight 54:
+
+	Flight date: 2022-08-22
+
+	Flight number: 586
+
+	Flight name: Ryanair
+
+	Flight departure: STN
+
+	Departure Airport: Stansted
+
+	Departure time (scheduled): 2022-08-22T07:40:00+00:00
+
+	Departure time (estimated): 2022-08-22T07:40:00+00:00
+
+	Flight arrival: PSA
+
+	Arrival Airport: Galileo Galilei
+
+	Arrival time (scheduled): 2022-08-22T10:45:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:45:00+00:00
+
+Flight 55:
+
+	Flight date: 2022-08-22
+
+	Flight number: 2814
+
+	Flight name: Ryanair
+
+	Flight departure: STN
+
+	Departure Airport: Stansted
+
+	Departure time (scheduled): 2022-08-22T07:35:00+00:00
+
+	Departure time (estimated): 2022-08-22T07:35:00+00:00
+
+	Flight arrival: CGN
+
+	Arrival Airport: Cologne/bonn
+
+	Arrival time (scheduled): 2022-08-22T09:45:00+00:00
+
+	Arrival time (estimated): 2022-08-22T09:45:00+00:00
+
+Flight 56:
+
+	Flight date: 2022-08-22
+
+	Flight number: 194
+
+	Flight name: Ryanair
+
+	Flight departure: STN
+
+	Departure Airport: Stansted
+
+	Departure time (scheduled): 2022-08-22T07:35:00+00:00
+
+	Departure time (estimated): 2022-08-22T07:35:00+00:00
+
+	Flight arrival: BLQ
+
+	Arrival Airport: Guglielmo Marconi
+
+	Arrival time (scheduled): 2022-08-22T10:35:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:35:00+00:00
+
+Flight 57:
+
+	Flight date: 2022-08-22
+
+	Flight number: 4952
+
+	Flight name: Ryanair
+
+	Flight departure: STN
+
+	Departure Airport: Stansted
+
+	Departure time (scheduled): 2022-08-22T07:30:00+00:00
+
+	Departure time (estimated): 2022-08-22T07:30:00+00:00
+
+	Flight arrival: PEG
+
+	Arrival Airport: Sant Egidio
+
+	Arrival time (scheduled): 2022-08-22T10:50:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:50:00+00:00
+
+Flight 58:
+
+	Flight date: 2022-08-22
+
+	Flight number: 1202
+
+	Flight name: Ryanair
+
+	Flight departure: STN
+
+	Departure Airport: Stansted
+
+	Departure time (scheduled): 2022-08-22T07:30:00+00:00
+
+	Departure time (estimated): 2022-08-22T07:30:00+00:00
+
+	Flight arrival: PMI
+
+	Arrival Airport: Son Sant Joan Airport
+
+	Arrival time (scheduled): 2022-08-22T10:50:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:50:00+00:00
+
+Flight 59:
+
+	Flight date: 2022-08-22
+
+	Flight number: 8405
+
+	Flight name: Ryanair
+
+	Flight departure: STN
+
+	Departure Airport: Stansted
+
+	Departure time (scheduled): 2022-08-22T07:25:00+00:00
+
+	Departure time (estimated): 2022-08-22T07:25:00+00:00
+
+	Flight arrival: WRO
+
+	Arrival Airport: Copernicus Airport
+
+	Arrival time (scheduled): 2022-08-22T10:20:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:20:00+00:00
+
+Flight 60:
+
+	Flight date: 2022-08-22
+
+	Flight number: 7608
+
+	Flight name: Ryanair
+
+	Flight departure: STN
+
+	Departure Airport: Stansted
+
+	Departure time (scheduled): 2022-08-22T07:25:00+00:00
+
+	Departure time (estimated): 2022-08-22T07:25:00+00:00
+
+	Flight arrival: CHQ
+
+	Arrival Airport: Souda
+
+	Arrival time (scheduled): 2022-08-22T13:15:00+00:00
+
+	Arrival time (estimated): 2022-08-22T13:15:00+00:00
+
+Flight 61:
+
+	Flight date: 2022-08-22
+
+	Flight number: 5172
+
+	Flight name: Ryanair
+
+	Flight departure: STN
+
+	Departure Airport: Stansted
+
+	Departure time (scheduled): 2022-08-22T07:20:00+00:00
+
+	Departure time (estimated): 2022-08-22T07:20:00+00:00
+
+	Flight arrival: BLL
+
+	Arrival Airport: Billund
+
+	Arrival time (scheduled): 2022-08-22T09:45:00+00:00
+
+	Arrival time (estimated): 2022-08-22T09:45:00+00:00
+
+Flight 62:
+
+	Flight date: 2022-08-22
+
+	Flight number: 4189
+
+	Flight name: Ryanair
+
+	Flight departure: STN
+
+	Departure Airport: Stansted
+
+	Departure time (scheduled): 2022-08-22T07:20:00+00:00
+
+	Departure time (estimated): 2022-08-22T07:20:00+00:00
+
+	Flight arrival: BGY
+
+	Arrival Airport: Bergamo - Orio al Serio
+
+	Arrival time (scheduled): 2022-08-22T10:10:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:10:00+00:00
+
+Flight 63:
+
+	Flight date: 2022-08-22
+
+	Flight number: 8321
+
+	Flight name: Ryanair
+
+	Flight departure: STN
+
+	Departure Airport: Stansted
+
+	Departure time (scheduled): 2022-08-22T07:15:00+00:00
+
+	Departure time (estimated): 2022-08-22T07:15:00+00:00
+
+	Flight arrival: VLC
+
+	Arrival Airport: Valencia
+
+	Arrival time (scheduled): 2022-08-22T10:40:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:40:00+00:00
+
+Flight 64:
+
+	Flight date: 2022-08-22
+
+	Flight number: 9142
+
+	Flight name: Ryanair
+
+	Flight departure: STN
+
+	Departure Airport: Stansted
+
+	Departure time (scheduled): 2022-08-22T07:10:00+00:00
+
+	Departure time (estimated): 2022-08-22T07:10:00+00:00
+
+	Flight arrival: FAO
+
+	Arrival Airport: Faro
+
+	Arrival time (scheduled): 2022-08-22T10:00:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:00:00+00:00
+
+Flight 65:
+
+	Flight date: 2022-08-22
+
+	Flight number: 881
+
+	Flight name: IndiGo
+
+	Flight departure: VTZ
+
+	Departure Airport: Vishakhapatnam
+
+	Departure time (scheduled): 2022-08-22T12:30:00+00:00
+
+	Departure time (estimated): 2022-08-22T12:30:00+00:00
+
+	Flight arrival: MAA
+
+	Arrival Airport: Madras International (Meenambakkam)
+
+	Arrival time (scheduled): 2022-08-22T13:45:00+00:00
+
+	Arrival time (estimated): 2022-08-22T13:45:00+00:00
+
+Flight 66:
+
+	Flight date: 2022-08-22
+
+	Flight number: 627
+
+	Flight name: Jetstar Japan
+
+	Flight departure: NRT
+
+	Departure Airport: Narita International Airport
+
+	Departure time (scheduled): 2022-08-22T15:55:00+00:00
+
+	Departure time (estimated): 2022-08-22T15:55:00+00:00
+
+	Flight arrival: KOJ
+
+	Arrival Airport: Kagoshima
+
+	Arrival time (scheduled): 2022-08-22T18:05:00+00:00
+
+	Arrival time (estimated): 2022-08-22T18:05:00+00:00
+
+Flight 67:
+
+	Flight date: 2022-08-22
+
+	Flight number: 6091
+
+	Flight name: JAL
+
+	Flight departure: NRT
+
+	Departure Airport: Narita International Airport
+
+	Departure time (scheduled): 2022-08-22T15:55:00+00:00
+
+	Departure time (estimated): 2022-08-22T15:55:00+00:00
+
+	Flight arrival: KOJ
+
+	Arrival Airport: Kagoshima
+
+	Arrival time (scheduled): 2022-08-22T18:05:00+00:00
+
+	Arrival time (estimated): 2022-08-22T18:05:00+00:00
+
+Flight 68:
+
+	Flight date: 2022-08-22
+
+	Flight number: 8402
+
+	Flight name: ANA
+
+	Flight departure: NRT
+
+	Departure Airport: Narita International Airport
+
+	Departure time (scheduled): 2022-08-22T15:35:00+00:00
+
+	Departure time (estimated): 2022-08-22T15:35:00+00:00
+
+	Flight arrival: ORD
+
+	Arrival Airport: Chicago O'hare International
+
+	Arrival time (scheduled): 2022-08-22T13:30:00+00:00
+
+	Arrival time (estimated): 2022-08-22T13:30:00+00:00
+
+Flight 69:
+
+	Flight date: 2022-08-22
+
+	Flight number: 505
+
+	Flight name: Peach Aviation
+
+	Flight departure: NRT
+
+	Departure Airport: Narita International Airport
+
+	Departure time (scheduled): 2022-08-22T15:25:00+00:00
+
+	Departure time (estimated): 2022-08-22T15:25:00+00:00
+
+	Flight arrival: OKA
+
+	Arrival Airport: Naha
+
+	Arrival time (scheduled): 2022-08-22T18:30:00+00:00
+
+	Arrival time (estimated): 2022-08-22T18:30:00+00:00
+
+Flight 70:
+
+	Flight date: 2022-08-22
+
+	Flight number: 4217
+
+	Flight name: ANA
+
+	Flight departure: NRT
+
+	Departure Airport: Narita International Airport
+
+	Departure time (scheduled): 2022-08-22T15:25:00+00:00
+
+	Departure time (estimated): 2022-08-22T15:25:00+00:00
+
+	Flight arrival: OKA
+
+	Arrival Airport: Naha
+
+	Arrival time (scheduled): 2022-08-22T18:30:00+00:00
+
+	Arrival time (estimated): 2022-08-22T18:30:00+00:00
+
+Flight 71:
+
+	Flight date: 2022-08-22
+
+	Flight number: 513
+
+	Flight name: Jetstar Japan
+
+	Flight departure: NRT
+
+	Departure Airport: Narita International Airport
+
+	Departure time (scheduled): 2022-08-22T15:25:00+00:00
+
+	Departure time (estimated): 2022-08-22T15:25:00+00:00
+
+	Flight arrival: FUK
+
+	Arrival Airport: Fukuoka
+
+	Arrival time (scheduled): 2022-08-22T17:40:00+00:00
+
+	Arrival time (estimated): 2022-08-22T17:40:00+00:00
+
+Flight 72:
+
+	Flight date: 2022-08-22
+
+	Flight number: 6055
+
+	Flight name: JAL
+
+	Flight departure: NRT
+
+	Departure Airport: Narita International Airport
+
+	Departure time (scheduled): 2022-08-22T15:25:00+00:00
+
+	Departure time (estimated): 2022-08-22T15:25:00+00:00
+
+	Flight arrival: FUK
+
+	Arrival Airport: Fukuoka
+
+	Arrival time (scheduled): 2022-08-22T17:40:00+00:00
+
+	Arrival time (estimated): 2022-08-22T17:40:00+00:00
+
+Flight 73:
+
+	Flight date: 2022-08-22
+
+	Flight number: 53
+
+	Flight name: ZIPAIR
+
+	Flight departure: NRT
+
+	Departure Airport: Narita International Airport
+
+	Departure time (scheduled): 2022-08-22T15:10:00+00:00
+
+	Departure time (estimated): 2022-08-22T15:10:00+00:00
+
+	Flight arrival: SIN
+
+	Arrival Airport: Singapore Changi
+
+	Arrival time (scheduled): 2022-08-22T21:30:00+00:00
+
+	Arrival time (estimated): 2022-08-22T21:30:00+00:00
+
+Flight 74:
+
+	Flight date: 2022-08-22
+
+	Flight number: 603
+
+	Flight name: Lao Airlines
+
+	Flight departure: VTE
+
+	Departure Airport: Wattay
+
+	Departure time (scheduled): 2022-08-22T14:00:00+00:00
+
+	Departure time (estimated): 2022-08-22T14:00:00+00:00
+
+	Flight arrival: LXG
+
+	Arrival Airport: Luang Namtha
+
+	Arrival time (scheduled): 2022-08-22T15:00:00+00:00
+
+	Arrival time (estimated): 2022-08-22T15:00:00+00:00
+
+Flight 75:
+
+	Flight date: 2022-08-22
+
+	Flight number: 401
+
+	Flight name: Lao Airlines
+
+	Flight departure: VTE
+
+	Departure Airport: Wattay
+
+	Departure time (scheduled): 2022-08-22T13:50:00+00:00
+
+	Departure time (estimated): 2022-08-22T13:50:00+00:00
+
+	Flight arrival: XKH
+
+	Arrival Airport: Xieng Khouang
+
+	Arrival time (scheduled): 2022-08-22T14:25:00+00:00
+
+	Arrival time (estimated): 2022-08-22T14:25:00+00:00
+
+Flight 76:
+
+	Flight date: 2022-08-22
+
+	Flight number: 1041
+
+	Flight name: AirAsia
+
+	Flight departure: VTE
+
+	Departure Airport: Wattay
+
+	Departure time (scheduled): 2022-08-22T13:45:00+00:00
+
+	Departure time (estimated): 2022-08-22T13:45:00+00:00
+
+	Flight arrival: DMK
+
+	Arrival Airport: Don Muang
+
+	Arrival time (scheduled): 2022-08-22T14:55:00+00:00
+
+	Arrival time (estimated): 2022-08-22T14:55:00+00:00
+
+Flight 77:
+
+	Flight date: 2022-08-22
+
+	Flight number: 204
+
+	Flight name: Lao Skyway
+
+	Flight departure: VTE
+
+	Departure Airport: Wattay
+
+	Departure time (scheduled): 2022-08-22T13:30:00+00:00
+
+	Departure time (estimated): 2022-08-22T13:30:00+00:00
+
+	Flight arrival: ZBY
+
+	Arrival Airport: Sayaboury
+
+	Arrival time (scheduled): 2022-08-22T14:10:00+00:00
+
+	Arrival time (estimated): 2022-08-22T14:10:00+00:00
+
+Flight 78:
+
+	Flight date: 2022-08-22
+
+	Flight number: 6884
+
+	Flight name: Ryanair
+
+	Flight departure: LPL
+
+	Departure Airport: Liverpool John Lennon
+
+	Departure time (scheduled): 2022-08-22T07:50:00+00:00
+
+	Departure time (estimated): 2022-08-22T07:50:00+00:00
+
+	Flight arrival: BGY
+
+	Arrival Airport: Bergamo - Orio al Serio
+
+	Arrival time (scheduled): 2022-08-22T11:00:00+00:00
+
+	Arrival time (estimated): 2022-08-22T11:00:00+00:00
+
+Flight 79:
+
+	Flight date: 2022-08-22
+
+	Flight number: 8254
+
+	Flight name: China Southern Airlines
+
+	Flight departure: WXN
+
+	Departure Airport: Wanxian
+
+	Departure time (scheduled): 2022-08-22T14:50:00+00:00
+
+	Departure time (estimated): 2022-08-22T14:50:00+00:00
+
+	Flight arrival: CAN
+
+	Arrival Airport: Guangzhou Baiyun International
+
+	Arrival time (scheduled): 2022-08-22T17:00:00+00:00
+
+	Arrival time (estimated): 2022-08-22T17:00:00+00:00
+
+Flight 80:
+
+	Flight date: 2022-08-22
+
+	Flight number: 4482
+
+	Flight name: Xiamen Airlines
+
+	Flight departure: WXN
+
+	Departure Airport: Wanxian
+
+	Departure time (scheduled): 2022-08-22T14:50:00+00:00
+
+	Departure time (estimated): 2022-08-22T14:50:00+00:00
+
+	Flight arrival: CAN
+
+	Arrival Airport: Guangzhou Baiyun International
+
+	Arrival time (scheduled): 2022-08-22T17:00:00+00:00
+
+	Arrival time (estimated): 2022-08-22T17:00:00+00:00
+
+Flight 81:
+
+	Flight date: 2022-08-22
+
+	Flight number: 1926
+
+	Flight name: KLM
+
+	Flight departure: GVA
+
+	Departure Airport: Geneve-cointrin
+
+	Departure time (scheduled): 2022-08-22T09:05:00+00:00
+
+	Departure time (estimated): 2022-08-22T09:05:00+00:00
+
+	Flight arrival: AMS
+
+	Arrival Airport: Schiphol
+
+	Arrival time (scheduled): 2022-08-22T10:45:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:45:00+00:00
+
+Flight 82:
+
+	Flight date: 2022-08-22
+
+	Flight number: 5660
+
+	Flight name: Malaysia Airlines
+
+	Flight departure: GVA
+
+	Departure Airport: Geneve-cointrin
+
+	Departure time (scheduled): 2022-08-22T09:05:00+00:00
+
+	Departure time (estimated): 2022-08-22T09:05:00+00:00
+
+	Flight arrival: AMS
+
+	Arrival Airport: Schiphol
+
+	Arrival time (scheduled): 2022-08-22T10:45:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:45:00+00:00
+
+Flight 83:
+
+	Flight date: 2022-08-22
+
+	Flight number: 9700
+
+	Flight name: Xiamen Airlines
+
+	Flight departure: GVA
+
+	Departure Airport: Geneve-cointrin
+
+	Departure time (scheduled): 2022-08-22T09:05:00+00:00
+
+	Departure time (estimated): 2022-08-22T09:05:00+00:00
+
+	Flight arrival: AMS
+
+	Arrival Airport: Schiphol
+
+	Arrival time (scheduled): 2022-08-22T10:45:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:45:00+00:00
+
+Flight 84:
+
+	Flight date: 2022-08-22
+
+	Flight number: 1926
+
+	Flight name: Kenya Airways
+
+	Flight departure: GVA
+
+	Departure Airport: Geneve-cointrin
+
+	Departure time (scheduled): 2022-08-22T09:05:00+00:00
+
+	Departure time (estimated): 2022-08-22T09:05:00+00:00
+
+	Flight arrival: AMS
+
+	Arrival Airport: Schiphol
+
+	Arrival time (scheduled): 2022-08-22T10:45:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:45:00+00:00
+
+Flight 85:
+
+	Flight date: 2022-08-22
+
+	Flight number: 5583
+
+	Flight name: Gol
+
+	Flight departure: GVA
+
+	Departure Airport: Geneve-cointrin
+
+	Departure time (scheduled): 2022-08-22T09:05:00+00:00
+
+	Departure time (estimated): 2022-08-22T09:05:00+00:00
+
+	Flight arrival: AMS
+
+	Arrival Airport: Schiphol
+
+	Arrival time (scheduled): 2022-08-22T10:45:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:45:00+00:00
+
+Flight 86:
+
+	Flight date: 2022-08-22
+
+	Flight number: 9456
+
+	Flight name: Delta Air Lines
+
+	Flight departure: GVA
+
+	Departure Airport: Geneve-cointrin
+
+	Departure time (scheduled): 2022-08-22T09:05:00+00:00
+
+	Departure time (estimated): 2022-08-22T09:05:00+00:00
+
+	Flight arrival: AMS
+
+	Arrival Airport: Schiphol
+
+	Arrival time (scheduled): 2022-08-22T10:45:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:45:00+00:00
+
+Flight 87:
+
+	Flight date: 2022-08-22
+
+	Flight number: 6620
+
+	Flight name: Aeromexico
+
+	Flight departure: GVA
+
+	Departure Airport: Geneve-cointrin
+
+	Departure time (scheduled): 2022-08-22T09:05:00+00:00
+
+	Departure time (estimated): 2022-08-22T09:05:00+00:00
+
+	Flight arrival: AMS
+
+	Arrival Airport: Schiphol
+
+	Arrival time (scheduled): 2022-08-22T10:45:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:45:00+00:00
+
+Flight 88:
+
+	Flight date: 2022-08-22
+
+Flight 89:
+
+	Flight date: 2022-08-22
+
+Flight 90:
+
+	Flight date: 2022-08-22
+
+	Flight number: 1545
+
+	Flight name: easyJet
+
+	Flight departure: GVA
+
+	Departure Airport: Geneve-cointrin
+
+	Departure time (scheduled): 2022-08-22T09:00:00+00:00
+
+	Departure time (estimated): 2022-08-22T09:00:00+00:00
+
+	Flight arrival: BDS
+
+	Arrival Airport: Papola Casale
+
+	Arrival time (scheduled): 2022-08-22T11:00:00+00:00
+
+	Arrival time (estimated): 2022-08-22T11:00:00+00:00
+
+Flight 91:
+
+	Flight date: 2022-08-22
+
+	Flight number: 9743
+
+	Flight name: Air Baltic
+
+	Flight departure: GVA
+
+	Departure Airport: Geneve-cointrin
+
+	Departure time (scheduled): 2022-08-22T09:00:00+00:00
+
+	Departure time (estimated): 2022-08-22T09:00:00+00:00
+
+	Flight arrival: DUS
+
+	Arrival Airport: Düsseldorf International Airport
+
+	Arrival time (scheduled): 2022-08-22T10:20:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:20:00+00:00
+
+Flight 92:
+
+	Flight date: 2022-08-22
+
+	Flight number: 4450
+
+	Flight name: SWISS
+
+	Flight departure: GVA
+
+	Departure Airport: Geneve-cointrin
+
+	Departure time (scheduled): 2022-08-22T09:00:00+00:00
+
+	Departure time (estimated): 2022-08-22T09:00:00+00:00
+
+	Flight arrival: DUS
+
+	Arrival Airport: Düsseldorf International Airport
+
+	Arrival time (scheduled): 2022-08-22T10:20:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:20:00+00:00
+
+Flight 93:
+
+	Flight date: 2022-08-22
+
+	Flight number: 2366
+
+	Flight name: SWISS
+
+	Flight departure: GVA
+
+	Departure Airport: Geneve-cointrin
+
+	Departure time (scheduled): 2022-08-22T08:50:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:50:00+00:00
+
+	Flight arrival: KGS
+
+	Arrival Airport: Kos Island International Airport
+
+	Arrival time (scheduled): 2022-08-22T12:55:00+00:00
+
+	Arrival time (estimated): 2022-08-22T12:55:00+00:00
+
+Flight 94:
+
+	Flight date: 2022-08-22
+
+Flight 95:
+
+	Flight date: 2022-08-22
+
+Flight 96:
+
+	Flight date: 2022-08-22
+
+	Flight number: 1513
+
+	Flight name: easyJet
+
+	Flight departure: GVA
+
+	Departure Airport: Geneve-cointrin
+
+	Departure time (scheduled): 2022-08-22T08:30:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:30:00+00:00
+
+	Flight arrival: PMI
+
+	Arrival Airport: Son Sant Joan Airport
+
+	Arrival time (scheduled): 2022-08-22T10:05:00+00:00
+
+	Arrival time (estimated): 2022-08-22T10:05:00+00:00
+
+Flight 97:
+
+	Flight date: 2022-08-22
+
+	Flight number: 2712
+
+	Flight name: Brussels Airlines
+
+	Flight departure: GVA
+
+	Departure Airport: Geneve-cointrin
+
+	Departure time (scheduled): 2022-08-22T08:15:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:15:00+00:00
+
+	Flight arrival: BRU
+
+	Arrival Airport: Brussels Airport
+
+	Arrival time (scheduled): 2022-08-22T09:35:00+00:00
+
+	Arrival time (estimated): 2022-08-22T09:35:00+00:00
+
+Flight 98:
+
+	Flight date: 2022-08-22
+
+	Flight number: 9892
+
+	Flight name: United Airlines
+
+	Flight departure: GVA
+
+	Departure Airport: Geneve-cointrin
+
+	Departure time (scheduled): 2022-08-22T08:15:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:15:00+00:00
+
+	Flight arrival: BRU
+
+	Arrival Airport: Brussels Airport
+
+	Arrival time (scheduled): 2022-08-22T09:35:00+00:00
+
+	Arrival time (estimated): 2022-08-22T09:35:00+00:00
+
+Flight 99:
+
+	Flight date: 2022-08-22
+
+	Flight number: 4552
+
+	Flight name: SWISS
+
+	Flight departure: GVA
+
+	Departure Airport: Geneve-cointrin
+
+	Departure time (scheduled): 2022-08-22T08:15:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:15:00+00:00
+
+	Flight arrival: BRU
+
+	Arrival Airport: Brussels Airport
+
+	Arrival time (scheduled): 2022-08-22T09:35:00+00:00
+
+	Arrival time (estimated): 2022-08-22T09:35:00+00:00
+
+Flight 100:
+
+	Flight date: 2022-08-22
+
+	Flight number: 6324
+
+	Flight name: Air Canada
+
+	Flight departure: GVA
+
+	Departure Airport: Geneve-cointrin
+
+	Departure time (scheduled): 2022-08-22T08:15:00+00:00
+
+	Departure time (estimated): 2022-08-22T08:15:00+00:00
+
+	Flight arrival: BRU
+
+	Arrival Airport: Brussels Airport
+
+	Arrival time (scheduled): 2022-08-22T09:35:00+00:00
+
+	Arrival time (estimated): 2022-08-22T09:35:00+00:00
