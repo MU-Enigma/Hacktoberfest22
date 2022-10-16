@@ -1,0 +1,43 @@
+#include <iostream>
+using namespace std;
+
+//////////////////////////////////////////////////////////////
+
+char *Reverse_Strg(char *Str, int size)
+{
+    char temp;
+    
+    for(int i=0;i < size/2;i++)
+    {
+        temp = Str[i];
+        Str[i] = Str[size-i-1];
+        Str[size-i-1] = temp;
+    }
+    
+    return Str;
+}
+
+//////////////////////////////////////////////////////////////
+
+int main()
+{
+    char *S = new char(105);
+    
+    cin>>S;
+    
+    int leng = 0;
+    
+    for(int i=0;S[i] != '\0';i++)
+    {
+        leng++;
+    }
+    
+    S = Reverse_Strg(S, leng);
+    
+    for(int i=0;S[i] != '\0';i++)
+    {
+        cout<<S[i];
+    }
+    
+    return 0;
+}
