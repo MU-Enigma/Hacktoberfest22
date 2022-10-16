@@ -21,10 +21,13 @@ int Sqroot(int a){
     }
 int main(){
     int a;
+    while(1){
+    printf("Enter the number: ");
     scanf("%d", &a);
-    if (a<1){
+    if (a<0){
        printf("Invalid input. Enter number again.\n");
     }
-    else printf("%d", Sqroot(a));
+    else printf("%d\n", Sqroot(a));
+    }
     return 0;
 }
