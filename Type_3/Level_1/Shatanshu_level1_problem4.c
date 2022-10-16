@@ -27,7 +27,12 @@ int main(){
     if (a<0){
        printf("Invalid input. Enter number again.\n");
     }
-    else printf("%d\n", Sqroot(a));
+    if (a==0){
+        printf("%d\n", 0);
+    }
+    if (a>=1){
+        printf("%d\n", Sqroot(a));
+    }
     }
     return 0;
 }
