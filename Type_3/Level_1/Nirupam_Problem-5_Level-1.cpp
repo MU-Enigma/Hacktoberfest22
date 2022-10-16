@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
 //////////////////////////////////////////////////////////////
@@ -23,7 +24,7 @@ int main()
 {
     char *S = new char(105);
     
-    cin>>S;
+    cin.getline(S, 105);
     
     int leng = 0;
     
@@ -38,6 +39,6 @@ int main()
     {
         cout<<S[i];
     }
-    
+    cout<<endl;
     return 0;
 }
