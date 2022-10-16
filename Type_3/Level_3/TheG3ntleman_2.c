@@ -64,7 +64,7 @@ int main () {
         count++;
       t2 = t2->next;
     }
-    if (count > 0)
+    if (count > 0 && t1->x > 0)
       count--;
     t1 = t1->next;
     if (t1->next == NULL)
