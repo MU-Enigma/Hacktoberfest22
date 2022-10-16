@@ -14,3 +14,6 @@ def calcpascaltriang(n):
 
 n = int(input("Enter number of rows in the pascal triangle: "))
 calcpascaltriang(n)
+
+
+#input format, requires a positive number to be inputed to denote number of rows in the pascal's triangle
