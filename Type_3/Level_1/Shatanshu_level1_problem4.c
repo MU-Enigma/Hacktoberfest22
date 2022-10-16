@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 int Sqroot(int a){
-        if(a <= 1){
-            return a;
-        }
         int S = 2, E = a, M;
         while(S <= E){
             M = S + (E - S)/2;
@@ -25,6 +22,9 @@ int Sqroot(int a){
 int main(){
     int a;
     scanf("%d", &a);
-    printf("%d", Sqroot(a));
+    if (a<1){
+       printf("Invalid input. Enter number again.\n");
+    }
+    else printf("%d", Sqroot(a));
     return 0;
 }
