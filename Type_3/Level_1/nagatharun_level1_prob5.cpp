@@ -14,7 +14,7 @@ void reverseString(vector<char>& s) {
 
 int main(){
     string s;
-    cin >> s;
+    getline(cin, s);
 
     vector<char> str;
 
