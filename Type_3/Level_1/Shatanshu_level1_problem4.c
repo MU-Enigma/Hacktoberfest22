@@ -29,9 +29,11 @@ int main(){
     }
     if (a==0){
         printf("%d\n", 0);
+        break;
     }
     if (a>=1){
         printf("%d\n", Sqroot(a));
+        break;
     }
     }
     return 0;
