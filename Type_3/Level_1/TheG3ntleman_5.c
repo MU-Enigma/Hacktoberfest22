@@ -11,6 +11,8 @@ int main () {
     str[i++] = c;
   }
 
+  i--;
+
   while (i >= 0) {
     putchar(str[i--]);
   }
