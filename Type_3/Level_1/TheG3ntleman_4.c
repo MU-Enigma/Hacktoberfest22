@@ -3,12 +3,11 @@
 int main() {
 
     int x;
-TAKE_INPUT:
     scanf("%d", &x);
     
     if (x < 0) {
         printf("Invalid Input.\n");
-        goto TAKE_INPUT;
+        return 0;
     }
     
 
