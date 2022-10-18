@@ -1,5 +1,6 @@
-/*Given a non-empty array of integers nums, every element 
-appears twice except for one. Find that single one. */
+/*Problem 3: Given a non-empty array of integers nums, 
+every element appears twice except for one. 
+Find that single one. */
 
 #include <stdio.h>
 
