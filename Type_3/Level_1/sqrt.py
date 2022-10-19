@@ -7,4 +7,4 @@ while(1):
 	else:
 		pass
 	a = a + 0.01
-print("\n Square root value is: ",round(a))
+print("\n Square root value is: ",int(a))
