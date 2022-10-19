@@ -64,3 +64,4 @@ int main()
     cout << calculate(str);
     return 0;
 }
+
