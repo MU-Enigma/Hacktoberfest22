@@ -19,7 +19,7 @@ def binom(n, x) :
 	
 	return res
 
-n = 7
+n = int(input("Enter number of row: "))
 Pascal(n)
 
 
