@@ -32,7 +32,7 @@ bool solu(int num, set<int> &st ) {
 int main() {
 
     int num;
-    cout<<"Enter Number: "
+    cout<<"Enter Number: ";
     cin>>num;
 
     set<int> st;
