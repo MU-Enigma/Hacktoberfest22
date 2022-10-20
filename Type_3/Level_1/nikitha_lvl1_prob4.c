@@ -2,9 +2,14 @@
 #include<math.h>
 
 int sqrt_num(int n){
-    int res=sqrt(n);
-    res=(int)res;
-    return res;
+    if(n==0 || n==1)
+        return n;
+    int i=1, ans=1;
+    while(ans<=n){
+        i++;
+        ans=i*i;
+    }
+    return i-1;
 }
 
 int main(){
