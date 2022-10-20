@@ -1,4 +1,4 @@
-num=input("enter a number")
+num=int(input("enter a number"))
 if(num<10):
     if(num==1 or num==7):
        print("happy number")
