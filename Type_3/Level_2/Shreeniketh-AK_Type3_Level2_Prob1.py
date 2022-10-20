@@ -1,59 +1,43 @@
 
-def findTripl(nums, n, Sum):
-	a = 0
-	b = 0
-	c = 0
-	
-	tripl = []
-	
-	uniqTripl = []
+def threesum(nums):
+	res = set()
 
-	temp = ""
-	
-	newTripl = [0, 0, 0]
-	
-	nums.sort()
-	
-	for a in range(n - 2):
-			
-		b = a + 1
+	nega, posi, zero = [], [], []
+	for num in nums:
+		if num > 0:
+			posi.append(num)
+		elif num < 0:
+			nega.append(num)
+		else:
+			zero.append(num)
 
-		c = n - 1
+	Neg, Pos = set(nega), set(posi)
 
-		while(b < c):
-					
-			if(nums[a] + nums[b] + nums[c] == Sum):
-				temp = str(nums[a]) + ":" + str(nums[b]) + ":" + str(nums[c])
-				if temp not in uniqTripl:
-					uniqTripl.append(temp)
-					newTripl[0] = nums[a]
-					newTripl[1] = nums[b]
-					newTripl[2] = nums[c]
-					tripl.append(newTripl)
-					newTripl = [0, 0, 0]
+	if zero:
+		for num in Pos:
+			if -1*num in Neg:
+				res.add((-1*num, 0, num))
 
-				b += 1
-				c -= 1
-						
-			elif(nums[a] + nums[b] + nums[c] > Sum):
-				c -= 1
-			else:
-				b += 1
+	if len(zero) >= 3:
+		res.add((0,0,0))
 
-	if(len(tripl) == 0):
-		return 0
-	
-	for a in range(len(tripl)):
-		print(tripl[a], end = ", ")
-	return 1
+	for i in range(len(nega)):
+		for j in range(i+1,len(nega)):
+			targ = -1*(nega[i]+nega[j])
+			if targ in Pos:
+				res.add(tuple(sorted([nega[i],nega[j],targ])))
 
-nums = input("Enter values: ")
-n = len(nums)
-Sum = 0
-for i in nums:
-    Sum += i
+	for i in range(len(posi)):
+		for j in range(i+1,len(posi)):
+			targ = -1*(posi[i]+posi[j])
+			if targ in Neg:
+				res.add(tuple(sorted([posi[i],posi[j],targ])))
 
-if(not findTripl(nums, n, Sum)):
-	print("No triplets can be formed.")
+	return res
 
+str = input("Enter space seperated integers: ")
+arr = str.split()
+for i in range(len(arr)):
+    arr[i] = int(arr[i])
+print(threesum(arr))
 
