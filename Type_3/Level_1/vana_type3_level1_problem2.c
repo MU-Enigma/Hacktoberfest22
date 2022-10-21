@@ -17,11 +17,11 @@ int main(){
     printf("Enter number:\n");
     scanf("%d",&number);
     int result = number;
-    while(result != 1 && result != 2)
+    while(result != 1 && result != 4)
         result = HappyNumber(result);
     if(result == 1)
         printf("True");
-    else if(result == 2)
+    else if(result == 4)
         printf("False");
     return 0;
     
