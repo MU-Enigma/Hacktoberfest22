@@ -16,5 +16,4 @@ def reverseWords(Str):
 
 Str = input()
 Str=[i for i in Str]
- 
 print(reverseWords(Str))
