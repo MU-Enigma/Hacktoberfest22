@@ -1,0 +1,7 @@
+Width: 512
+Height: 512
+Cfg scale: 7.0
+Steps: 50
+Sampler: k_dpm_2_ancestral
+Model: Stable Diffusion v1.5
+Seed: 782022969
