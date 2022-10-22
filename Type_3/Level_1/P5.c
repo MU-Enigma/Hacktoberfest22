@@ -31,7 +31,7 @@ int chartointcon(char c){
     return ((int)c);
 }
 int isitalphabet(char a){
-    if ((chartointcon(a)>=65 && chartointcon(a)<=90)|| (chartointcon(a)>=97 && chartointcon(a)<=122)){
+    if ((chartointcon(a)>=65 && chartointcon(a)<=90)|| (chartointcon(a)>=97 && chartointcon(a)<=122) || a==' '){
         return 1;
     }
     else{
