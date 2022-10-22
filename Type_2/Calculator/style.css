@@ -1,0 +1,27 @@
+.card {
+    margin: 0 auto; 
+    float: none; 
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+img {
+    padding: 5px;
+    width: 50px;
+  }
+
+button {
+    width: 4rem;
+}
+
+input[type=number] {
+    width: 70%;
+    height: 2.5rem;
+    border: 2px solid grey;
+    border-radius: 4px;
+    padding: 7px;
+  }
+
+.alert {
+    width: 95.5%;
+}
