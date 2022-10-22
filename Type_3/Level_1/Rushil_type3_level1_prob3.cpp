@@ -20,8 +20,8 @@ int main(){
     cin.tie(NULL);
     // freopen("input.txt","r",stdin);
     // freopen("output.txt","w",stdout);
-    n = 1;
-    while(n--){
+    // n = 1;
+    // while(n--){
         TCSOLVE();
-    }
+    // }
 }
