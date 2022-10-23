@@ -26,7 +26,7 @@ char Pop(char value){        //Popping the top most element from the stack//
     
     if(top==-1){
         printf("stack is empty"); //No elements in the stack then printing empty//
-        return;
+        return 's';
     }
     else{
         top--;    //decrementing the top by one//
