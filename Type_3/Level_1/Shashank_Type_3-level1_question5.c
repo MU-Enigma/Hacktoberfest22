@@ -24,7 +24,7 @@ char *reverse_string(char s[])
 int main()
 {
     char s[105];
-    scanf("%s", s);
+    scanf("%[^\n]%*c", s);
     printf("%s", reverse_string(s));
     return 0;
 }
