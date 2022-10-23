@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     string sentence;
-    cin>>sentence;
+    getline(cin,sentence);
 
     int size = sentence.length() -1;
 
