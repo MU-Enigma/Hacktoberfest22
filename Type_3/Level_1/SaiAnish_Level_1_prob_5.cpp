@@ -17,6 +17,7 @@ void reverse(string s){
 
 int main(){
     string s;
-    cin>>s;
+    getline(cin>>ws,s);    
+    // cout<<s;
     reverse(s);
 }
