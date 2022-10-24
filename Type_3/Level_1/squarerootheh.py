@@ -1,10 +1,13 @@
-a = int(input("Enter no: "))
-sqrt = 1.0
-while(1):
-	sqr = sqrt*sqrt
-	if  a-0.1 < sqr < a+0.1 :
-		break
-	else:
-		pass
-	sqrt = sqrt + 0.01
-print("The square root is:",int(sqrt))
+class Solution:
+  def squarerootheh(self, x: int) -> int:
+    l = 1
+    r = x + 1
+
+    while l < r:
+      m = (l + r) // 2
+      if m * m > x:
+        r = m
+      else:
+        l = m + 1
+	
+    return l - 1
