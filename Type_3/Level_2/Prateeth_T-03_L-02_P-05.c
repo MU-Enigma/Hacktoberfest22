@@ -104,7 +104,7 @@ int Postix_Evaluation(struct stack*head, char* st){
     
     int len=strlen(st);    //Finding the length of given string//
     
-    for(int i=len-1; i>=0; i--){
+    for(int i=len-2; i>0; i--){
         if(st[i]>='0' && st[i]<='9'){
             int temp = (int)(st[i] - '0');
             Push(head,temp);
@@ -142,11 +142,20 @@ int main(){
     char s[size];
     scanf("%9999[^\n]s",s);    //Inputting the given string//
     
-    struct stack*head=(struct stack*)malloc(sizeof(struct stack));    //Initializing an empty stack//
-    head->top=-1;    //keeping top value as -1//
-    
     int len=strlen(s);    //lenght of given string//
     
+    for(int i=0; i<len; i++){      //Removing spaces in string//
+        if(s[i] == ' '){  
+            for(int j=i; j<len; j++){  
+                s[j]=s[j+1];  
+            }  
+            len--;  
+        }  
+    }  
+    
+    struct stack*head=(struct stack*)malloc(sizeof(struct stack));    //Initializing an empty stack//
+    head->top=-1;    //keeping top value as -1//
+ 
     if(len%2==0 && len>2){
         printf("Invalid Expression");    //condition for not valid string//
         free(head);        //freeing the allocated dymanic memory//
