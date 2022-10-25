@@ -24,18 +24,16 @@
 
 ## How to Contribute
 1. Open issue stating the problem you are solving and the language you wish to use.
-2. Issue must include the Type, Level/Problem and Language used
-![Issues](assets/issues.png)
-3. Fork this repo.
+2. Fork this repo.
 ![Fork](assets/fork.png)
-4. Clone the forked repo to your local envoriment.
+3. Clone the forked repo to your local envoriment.
 - `git clone https://github.com/<your_username>/Hacktoberfest_2022`
 - `cd Hacktoberfest_2022`
-5. Add all changes you make
-6. Open a Pull Request
+4. Add all changes you make
+5. Open a Pull Request
 ![PR](assets/pullreq.png)
-7. Wait for a morderator to accept you pull request.
-8. Acceptance of four such pull request marks the completion of the challenge.
+6. Wait for a morderator to accept you pull request.
+7. Acceptance of four such pull request marks the completion of the challenge.
 
 #### Note
 1. Every problem you solve must have one Issue prior to a Pull request. 
