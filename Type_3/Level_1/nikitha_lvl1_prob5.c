@@ -34,20 +34,10 @@ void string_reversal(char *s){
     int n=strlen(s);
     struct stack* head=NULL;
     for(int i=0;i<n;i++){
-        if(s[i]!=' '){
-            push(&head,s[i]);
-        }
-        else{
-            while(head!=NULL){
-                char x=pop(&head);
-                printf("%c",x);
-            }
-            printf(" ");
-        }
+        push(&head,s[i]);
     }
     while(head!=NULL){
-        char x=pop(&head);
-        printf("%c",x);
+        printf("%c",pop(&head));
     }
 }
 
