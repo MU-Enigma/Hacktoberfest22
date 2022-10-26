@@ -1,5 +1,9 @@
-list1 = [1,3,5]
-list2 = [2,4,6,10,11,15]
+list11 = input("please enter a list in sorted way")
+list22 = input("please enter a list in sorted way")
+
+list1 = list11.split()
+list2 = list22.split()
+
 index1=0
 index2=0
 list1size = len(list1)
@@ -15,9 +19,5 @@ while index1 < list1size and index2 < list2size:
       pseudo.append(list2[index2])
       index2 += 1
 
-pseudo = pseudo + list2[index2:]
+pseudo = pseudo + list1[index1:] + list1[index2:]
 print(pseudo)
-
-
-
-
