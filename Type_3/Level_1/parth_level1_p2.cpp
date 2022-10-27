@@ -14,7 +14,6 @@ bool happyNumber(int n) {
         n = n / 10;
     }
     happyNumber(sum);
-    return false;
 }
 
 int main() {
