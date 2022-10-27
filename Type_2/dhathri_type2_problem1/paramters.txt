@@ -1,0 +1,5 @@
+height = 512                        
+width = 512                         
+num_inference_steps = 100           
+guidance_scale = 7.5    
+model = CompVis/stable-diffusion-v1-4
