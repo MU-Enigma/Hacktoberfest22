@@ -36,7 +36,7 @@ A happy number is a number defined by the following process:
 - Starting with any positive integer, replace the number by the sum of the squares of its digits.
 - Repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1.
 - Those numbers for which this process ends in 1 are happy.
-- Return true if n is a happy number, and false if not. 
+- Return true if n is a happy number, and false if not.
 
 ```
 Example 1:
@@ -44,10 +44,10 @@ Example 1:
 Input: n = 19
 Output: true
 Explanation:
-12 + 92 = 82
-82 + 22 = 68
-62 + 82 = 100
-12 + 02 + 02 = 1
+1^2 + 9^2 = 82
+8^2 + 2^2 = 68
+6^2 + 8^2 = 100
+1^2 + 0^2 + 0^2 = 1
 ```
 
 ```
@@ -56,11 +56,11 @@ Example 2:
 Input: n = 2
 Output: false
 ```
- 
+
 
 Constraints:
 
-- `1 <= n <= 231 - 1`
+- `1 <= n <= 2^31 - 1`
 
 <br>
 
@@ -88,7 +88,7 @@ Example 3:
 Input: nums = [1]
 Output: 1
 ```
- 
+
 Constraints:
 
 - `1 <= nums.length <= 3 * 104`
@@ -117,7 +117,7 @@ Input: x = 8
 Output: 2
 Explanation: The square root of 8 is 2.82842..., and since the decimal part is truncated, 2 is returned.
 ```
- 
+
 
 Constraints:
 
@@ -130,7 +130,7 @@ Write a function that reverses a string. The input string is given as an array o
 
 You must do this by modifying the input array in-place with O(1) extra memory.
 
- 
+
 ```
 Example 1:
 
@@ -144,7 +144,7 @@ Example 2:
 Input: s = ["H","a","n","n","a","h"]
 Output: ["h","a","n","n","a","H"]
 ```
- 
+
 
 Constraints:
 
