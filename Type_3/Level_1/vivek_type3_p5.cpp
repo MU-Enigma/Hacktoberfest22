@@ -36,11 +36,7 @@ freopen("in.txt", "r", stdin);freopen("out.txt", "w", stdout);freopen("error.txt
 }
 /*-------------------------------------------------------------------------------------------------------------------------------------*/
 
-#define MAX_BUFFER_SIZE 105
-
 void solve() {
-
-  char str[MAX_BUFFER_SIZE];
   string s="";
   char c;
   while ((c = getchar()) != '\n') {
