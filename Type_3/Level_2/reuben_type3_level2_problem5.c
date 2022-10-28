@@ -23,7 +23,7 @@ void intPush(inst *s, int val)
 {
   if (s->count == s->max) 
   {
-    printf("Overflow\n");
+    printf("int stack Overflow\n");
   } 
   else 
   {
@@ -53,10 +53,10 @@ int peekInt(inst *s)
 
 void printStack(inst *s) 
 {
-  int *temp = s->top;
-  for (int i = 1; i <= s->count ; i++) 
+  int *temp = s->top - s->count + 1;
+  for (int i = 0; i <= s->count ; i++) 
   {
-    printf("%d ", *temp--);
+    printf("%d ", *temp++);
   }
   printf("\n");
 }
@@ -81,7 +81,7 @@ void push(st *s, char val)
 {
   if (s->count == s->max) 
   {
-    printf("Overflow\n");
+    printf("char stack Overflow\n");
   }
   else 
   {
@@ -135,7 +135,7 @@ void enqueue(que *q, char val)
     }
     if(q->count == q->max)
     {
-        printf("Overflow");
+        printf("queue Overflow");
         exit(0);
     }
     else
@@ -193,7 +193,7 @@ que* convertToPostfix(char *infix)  //infix to postfix
     inStack(s, strlen(infix) + 1);
 
     que *postfix = (que*)malloc(sizeof(que));
-    inQueue(postfix, strlen(infix) + 1);
+    inQueue(postfix, strlen(infix) + 5);
 
     infix[strlen(infix) - 1] = ')';  //end of expression pointer
     push(s, '(');
@@ -246,7 +246,7 @@ que* convertToPostfix(char *infix)  //infix to postfix
         }
     }
 
-    return postfix;
+    return postfix; 
 }
 
 int getNum(char c)  //convert digit from char to int
@@ -261,11 +261,11 @@ int operate(int x, int y, char c)
     {
          case '+' : return x + y;
          break;
-         case '-' : return x - y;
+         case '-' : return y - x;
          break;
          case '*' : return x * y;
          break;
-         case '/' : return x / y;
+         case '/' : return y / x;
          break;
          default : 
          {
@@ -307,7 +307,6 @@ int evaluatePostfix(que *postfix)
             intPush(s, val);  
         }
     }
-    
     return peekInt(s);
 }
 
