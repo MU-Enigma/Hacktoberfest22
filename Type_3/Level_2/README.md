@@ -160,8 +160,8 @@ Output: 1
 ```
 Example 3:
 
-Input: s = " 3+5/2 "
-Output: 5
+Input: s = " 33+5/2 "
+Output: 35
 ```
  
 
