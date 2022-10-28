@@ -84,6 +84,8 @@ int main()
         
     }
  
-    cout<<pf[0]-'0'<<endl; 
+    for(int i=0; i<len; i++)
+        cout<<pf[i]-'0';
+    cout<<endl;
     return 0;
 }
