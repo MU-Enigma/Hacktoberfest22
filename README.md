@@ -36,5 +36,4 @@
 7. Acceptance of four such pull request marks the completion of the challenge.
 
 #### Note
-1. Every problem you solve must have one Issue prior to a Pull request. 
-2. Every problem must have one Pull request. Do not club multiple solutions in a single Pull request, it will be rejected.
+1. Every problem must have one Pull request. Do not club multiple solutions in a single Pull request, it will be rejected.
