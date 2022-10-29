@@ -11,5 +11,4 @@ int main()
       if(arr[i]>arr[j])
          brr[i]++;
   for(i=0;i<n;i++)
-  cout<<brr[i]<<" ";
-}
+  cout<<brr[i]<<" ";}
