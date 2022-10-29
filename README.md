@@ -31,9 +31,9 @@
 - `cd Hacktoberfest_2022`
 4. Add all changes you make
 5. Open a Pull Request
+#### Every problem must have only one Pull request. Do not club multiple solutions in a single Pull request, it will be rejected.
+
 ![PR](assets/pullreq.png)
+
 6. Wait for a morderator to accept you pull request.
 7. Acceptance of four such pull request marks the completion of the challenge.
-
-#### Note
-1. Every problem must have one Pull request. Do not club multiple solutions in a single Pull request, it will be rejected.
