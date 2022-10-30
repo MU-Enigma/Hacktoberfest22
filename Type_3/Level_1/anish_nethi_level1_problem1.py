@@ -11,4 +11,4 @@ for i in range(numRows):
 
     ans[i] = row
 
-return ans
+print(ans)
