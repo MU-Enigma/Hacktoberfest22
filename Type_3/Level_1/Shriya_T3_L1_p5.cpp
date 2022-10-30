@@ -9,7 +9,7 @@ int main()
     scanf("%[^\n]s", ch);
 
     cout<<"[";
-    for(int i=strlen(ch)-2; i>=1; i--)
+    for(int i=strlen(ch)-1; i>=0; i--)
         cout<<""""<<ch[i]<<"""";
     cout<<"]";
     return 0;
