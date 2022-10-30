@@ -1,0 +1,7 @@
+Width: 642
+Height: 448
+Cfg scale: 7.5
+Steps: 30
+Sampler: euler
+Model: Stable Diffusion v1.5
+Seed: 2176909683
