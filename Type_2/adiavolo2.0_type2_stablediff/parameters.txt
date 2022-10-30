@@ -1,3 +1,4 @@
+Prompt: landscape of a steampunk plague doctor on top of a syscraper, distopian city background
 Width: 642
 Height: 448
 Cfg scale: 7.5
