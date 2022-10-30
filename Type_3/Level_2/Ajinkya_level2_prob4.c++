@@ -19,7 +19,7 @@ int main() {
 
     vec.erase(vec.begin() + index);
 
-    for (int i = 0; i < n; i++)
+    for (int i = 0; i < vec.size(); i++)
     {
         cout << vec[i] << " ";
     }
