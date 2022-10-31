@@ -37,10 +37,14 @@ int Single(int a[], int ar_size)
 // Driver code
 int main()
 {
-	int ar[] = { 2, 3, 5, 4, 5, 3, 4 };
-	int n = sizeof(ar) / sizeof(ar[0]);
-	int arr[]={4,1,2,1,2};
-	int num=sizeof(arr)/sizeof(arr[0]);
+	cout << "Enter array size: ";
+	int n;
+	cin >> "n"
+	int ar[n];
+	for(int i = 0; i < n; i++) {
+	cout << "Enter value: "
+	cin >> ar[i];
+	}
 	// Function call
 	cout << "Element occurring once is "
 		<< Single(ar, n)<<endl;
