@@ -1,6 +1,6 @@
 // C++ implementation of the approach
 #include <bits/stdc++.h>
-#include<iostrem>
+#include <iostream>
 using namespace std;
 
 // Recursive function that returns square root
