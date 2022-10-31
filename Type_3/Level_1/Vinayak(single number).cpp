@@ -39,10 +39,10 @@ int main()
 {
 	cout << "Enter array size: ";
 	int n;
-	cin >> "n"
+	cin >> "n";
 	int ar[n];
 	for(int i = 0; i < n; i++) {
-	cout << "Enter value: "
+	cout << "Enter value: ";
 	cin >> ar[i];
 	}
 	// Function call
