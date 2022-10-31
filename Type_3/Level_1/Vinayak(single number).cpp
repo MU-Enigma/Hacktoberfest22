@@ -48,7 +48,7 @@ int main()
 	// Function call
 	cout << "Element occurring once is "
 		<< Single(ar, n)<<endl;
-    cout<<"Element occurring once in second array "<<Single(ar,num);
+    cout<<"Element occurring once in second array "<<Single(ar,n);
 	return 0;
 }
 
