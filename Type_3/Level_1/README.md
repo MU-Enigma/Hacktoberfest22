@@ -121,7 +121,7 @@ Explanation: The square root of 8 is 2.82842..., and since the decimal part is t
 
 Constraints:
 
-- `0 <= x <= 231 - 1`
+- `0 <= x <= 2^31 - 1`
 <br>
 
 # Problem 5: Reverse string
@@ -134,8 +134,8 @@ You must do this by modifying the input array in-place with O(1) extra memory.
 ```
 Example 1:
 
-Input: s = ["h","e","l","l","o"]
-Output: ["o","l","l","e","h"]
+Input: s = ["h","e","l","l","o"," ","w","o","r","l","d"]
+Output: ["d","l","r","o","w"," ","o","l","l","e","h"]
 ```
 
 ```
