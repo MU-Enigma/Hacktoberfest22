@@ -1,6 +1,10 @@
 # Hacktoberfest22
 ![HacktoberFestBanner](assets/banner.jpeg)
 
+# Resources
+The presentation for our introductory session on Git, Github and Hacktoberfest22 is as follows:
+[Hacktoberfest22 session presentation](assets/sessionPres.pdf)
+
 ## Content
 1. [Problem Types](#problem-types)
 2. [How to Contribute](#how-to-contribute)
